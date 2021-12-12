@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+input {
+    width: 450px !important;
+    margin-top: 5px !important;
+}
+
+#nav-myseft {
+    margin-right: 15px !important;
+}
+
+#content-myself{
+    margin-top:50px !important;
+}
+
+#home{
+    font-family: 'Pacifico' !important;
+    margin-left: 10px !important;
+}
+
+.navbar-brand {
+    padding-right: 10px;
+}
+
+.nav-link:hover{
+    cursor: pointer !important;
+    font-weight: 600px !important;
+}
+
+
